@@ -1,0 +1,14 @@
+Gross Pay      =570.52
+Social Tax     =34.2312
+Federal Tax    =79.8728
+Dependent Fee  =35
+Union Fee      =10
+Net Pay        =411.416
+--------------------------------------
+Gross Pay      =797.05
+Social Tax     =47.823
+Federal Tax    =111.587
+Dependent Fee  =35
+Union Fee      =10
+Net Pay        =592.64
+--------------------------------------

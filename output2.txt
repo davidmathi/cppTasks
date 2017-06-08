@@ -1,0 +1,151 @@
+Enter number of Quarters,Dimes,Nickels
+5 0 0
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+1 - selected
+Please take your Potato Chips
+*****
+Take the change of 0
+
+quarters-0
+dimes-0
+nickels-0
+--------------------------------------
+Enter number of Quarters,Dimes,Nickels
+2 0 0
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+1 - selected
+Less Amount Insterted.Please Insert 1.25
+---------------------------------------
+Enter number of Quarters,Dimes,Nickels
+5 2 2
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+1 - selected
+Please take your Potato Chips
+*****
+Take the change of 0.3
+
+quarters-1
+dimes-0
+nickels-1
+--------------------------------------
+Enter number of Quarters,Dimes,Nickels
+5 2 2
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+Item out of stock
+Take the change of 1.55
+
+quarters-6
+dimes-0
+nickels-1
+--------------------------------------
+Enter number of Quarters,Dimes,Nickels
+6 0 0
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+Item Doesn't Exist.Try Again
+Take the change of 1.5
+
+quarters-6
+dimes-0
+nickels-0
+--------------------------------------
+Enter number of Quarters,Dimes,Nickels
+3 1 0
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+2 - selected
+Please take your Cookies
+*****
+Take the change of 0
+
+quarters-0
+dimes-0
+nickels-0
+--------------------------------------
+Enter number of Quarters,Dimes,Nickels
+1 0 0
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+2 - selected
+Less Amount Insterted.Please Insert 0.85
+---------------------------------------
+Enter number of Quarters,Dimes,Nickels
+5 2 2
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+2 - selected
+Please take your Cookies
+*****
+Take the change of 0.7
+
+quarters-2
+dimes-1
+nickels-2
+--------------------------------------
+Enter number of Quarters,Dimes,Nickels
+5 2 2
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+Item out of stock
+Take the change of 1.55
+
+quarters-6
+dimes-0
+nickels-1
+--------------------------------------
+Enter number of Quarters,Dimes,Nickels
+5 6 6
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+Item Doesn't Exist.Try Again
+Take the change of 2.15
+
+quarters-8
+dimes-1
+nickels-1
+--------------------------------------
+Enter number of Quarters,Dimes,Nickels
+3 2 0
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+3 - selected
+Please take your Candies
+*****
+Take the change of 0
+
+quarters-0
+dimes-0
+nickels-0
+--------------------------------------
+Enter number of Quarters,Dimes,Nickels
+1 0 0
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+3 - selected
+Less Amount Insterted.Please Insert 0.95
+---------------------------------------
+Enter number of Quarters,Dimes,Nickels
+5 2 2
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+3 - selected
+Please take your Candies
+*****
+Take the change of 0.6
+
+quarters-2
+dimes-0
+nickels-2
+--------------------------------------
+Enter number of Quarters,Dimes,Nickels
+5 2 2
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+Item out of stock
+Take the change of 1.55
+
+quarters-6
+dimes-0
+nickels-1
+--------------------------------------
+Enter number of Quarters,Dimes,Nickels
+5 6 7
+select  1. Potato chips $1.25 2. Cookies $0.85 3. Candies $0.95 
+Item Doesn't Exist.Try Again
+Take the change of 2.2
+
+quarters-8
+dimes-2
+nickels-0
+--------------------------------------
+Enter number of Quarters,Dimes,Nickels
